@@ -20,7 +20,7 @@
   
 	<dependencies>
 		<dependency>
-			<groupId>nanoj</groupId>
+			<groupId>org.nanoj</groupId>
 			<artifactId>nanoj-injector</artifactId>
 			<version>0.8.1-SNAPSHOT</version>
 		</dependency>
